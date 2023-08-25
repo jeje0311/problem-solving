@@ -19,11 +19,10 @@ function 숫자(num){
     return true //나누어지면 소수 
 }
 
-function solution(nums) {
+function solution(num) {
 
     let count = 0
 
-    for ()
 
 
         //nums 에 일단 1~1000까지 랜덤으로 숫자를 넣어야하고?숫자의 갯수는 3개이상50개 이하여야함 
