@@ -18,7 +18,7 @@ function 숫자(num){
     }
     return true //나누어지면 소수 
 }
-
+//push
 function solution(num) {
 
     let count = 0
